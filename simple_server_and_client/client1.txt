@@ -1,0 +1,15 @@
+Script started on Thu 20 Feb 2014 11:04:43 AM NST
+[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m exitjava MeetingSever 0 5[1@r[C[C[C[C[C[C[Cexit[Kjava MeetingClient localhost 60508  SOCI 1000[CCOMP 1710[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C C[1P[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C CO[1P[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C COM[1P[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C COMP[1P 1710[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C COMP [1P1710[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3 COMP 1710[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6 COMP 1710[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0 CO[1@M[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3 C[1@O[A[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4 [1@C
+COMP 1710-001
+F W M 0900 0950 EN 1054
+M 1400 1700 CS 1019
+
+Closing connection to Socket[addr=localhost/127.0.0.1,port=36034,localport=55174]
+Done, press enter to continue...
+[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m java MeetingClient localhost 36034  COMP 1710[1P 1710[1P 1710[C[C[C[1P 1710[C[C0 1710[C[C[C0 17100 1710
+Closing connection to Socket[addr=localhost/127.0.0.1,port=36034,localport=55175]
+Done, press enter to continue...
+[01;32mmokane3562@mokane-lappy486[01;34m ~/Java/workspace/a3 $[00m exit
+exit
+
+Script done on Thu 20 Feb 2014 11:07:55 AM NST
