@@ -1,4 +1,7 @@
-secret-java-hipster
-===================
+# secret-java-hipster
 
 Java code samples. A showcase of my Java code/style.
+
+## Contents
+
+* simple-server-and-client - A simple showcase of java networking 
